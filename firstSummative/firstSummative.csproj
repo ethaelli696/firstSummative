@@ -85,5 +85,8 @@
   <ItemGroup>
     <None Include="Resources\Blop-Mark_DiAngelo-79054334.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\big.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
